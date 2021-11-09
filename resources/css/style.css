@@ -1,0 +1,126 @@
+header{
+    text-align: center;
+    background-color: turquoise;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(15, 15, 70); 
+    padding: 10px;
+    
+}
+body{
+    margin: 0px;
+}
+
+section{
+    padding: 20px;
+    display: block;    
+}
+
+article{
+    padding: 10px;
+    display: inline-block;
+}
+
+.font{
+    background-color:ghostwhite;
+}
+
+.font article{
+    width: 45%;
+}
+
+#font1{
+    font-family: Merriweather;
+}
+
+#font2{
+    font-family: 'Red Hat Mono';
+}
+
+#font3{
+    font-family: 'Roboto Mono';
+}
+.text{
+    background-color: rgb(15, 15, 70);
+    color: white;
+}
+
+.text article{
+    width: 45%;
+}
+
+#text_heading{
+    width: fit-content;
+    border-radius: 7px;
+    background-color: turquoise;
+    color: rgb(15, 15, 70);
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+#h1_heading{
+    font-family: verdana;
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+}
+
+#h2_heading{
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'courier new';
+}
+
+#p_heading{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Times New Roman';
+}
+
+#color_heading{
+    width: fit-content;
+    border-radius: 7px;
+    background-color: rgb(15, 15, 70);
+    color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+.colors article{
+    width: 30%;
+}
+
+.colors p{
+    font-size: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#red{
+    background-color: red;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#indigo{
+    background-color:indigo ;
+}
+#violet{
+    background-color: violet;
+}
